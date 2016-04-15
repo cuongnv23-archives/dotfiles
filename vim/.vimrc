@@ -133,7 +133,10 @@ set showmatch
 " " lines longer than 79 columns will be broken
 set textwidth=79"
 "
-"
+" Spell checking
+setlocal spell spelllang=en_us
+set complete+=kspell
+
 "python with virtualenv support
 py << EOF
 import os
