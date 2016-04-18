@@ -1,0 +1,6 @@
+#!/bin/bash
+## Add this script to your $PATH
+# Launch i3lock first
+/bin/sh ~/.i3/i3lock.sh
+# Execute command pm-suspend
+sudo /usr/sbin/pm-suspend
