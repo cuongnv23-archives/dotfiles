@@ -33,6 +33,9 @@ Plugin 'kien/ctrlp.vim'
 Bundle 'chase/vim-ansible-yaml'
 "" Quote complete
 Bundle 'Raimondi/delimitMate'
+"" Vim-jinja
+Plugin 'mitsuhiko/vim-jinja'
+
 
 
 
